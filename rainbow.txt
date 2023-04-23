@@ -2,9 +2,10 @@ Rainbow
 
 Blue
 Yellow
-Purple
 Green
 Red
 Orange
+Indigo
+Violet
 
 These are colors of rainbow.
